@@ -20,12 +20,12 @@ Makers Academy Engineering Group Project to make a Facebook Clone (Acebook)
 ### How to Install
 
 - git clone this repo
-- run `$ gem install bundle`
-- run `$ bundle`
-- run `$ gem install rake`
-- run `$ rake db:create`
-- run `$ rake db:migrate`
-- run `$ rails server` 
+`$ gem install bundle`
+`$ bundle`
+`$ gem install rake`
+`$ rake db:create`
+`$ rake db:migrate`
+`$ rails server` 
 - Open your browser and start the server at localhost:3000
 
 
@@ -36,12 +36,7 @@ Makers Academy Engineering Group Project to make a Facebook Clone (Acebook)
 
 #### Other informations:
 
-1. Fork this repository to `acebook-teamname` and customize
-   the below\*\*
-
-[You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
-
-2. Trello card wall is here:  https://trello.com/b/JUaLZHFH/insane
+Trello card wall is here:  https://trello.com/b/JUaLZHFH/insane
 
 ## Customer Requirements
 
