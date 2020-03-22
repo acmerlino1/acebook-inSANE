@@ -20,12 +20,14 @@ Makers Academy Engineering Group Project to make a Facebook Clone (Acebook)
 ### How to Install
 
 - git clone this repo
-`$ gem install bundle`
-`$ bundle`
-`$ gem install rake`
-`$ rake db:create`
-`$ rake db:migrate`
-`$ rails server` 
+```
+$ gem install bundle
+$ bundle
+$ gem install rake
+$ rake db:create
+$ rake db:migrate
+$ rails server
+```
 - Open your browser and start the server at localhost:3000
 
 
